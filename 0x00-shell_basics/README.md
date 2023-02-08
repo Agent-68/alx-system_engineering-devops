@@ -4,3 +4,4 @@
 3-listfiles it display files in details
 4- show the hidden files
 5-list all the directories in numbers format
+6-make the directory in tmp directory
