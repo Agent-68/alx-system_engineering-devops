@@ -1,2 +1,4 @@
 0x00 represent the current woking directory command
-listit show all current directories
+1-listit show all current directories
+2- brings to home directories
+3-listfiles it display files in details
