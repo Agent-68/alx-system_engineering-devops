@@ -3,3 +3,4 @@
 2- brings to home directories
 3-listfiles it display files in details
 4- show the hidden files
+5-list all the directories in numbers format
